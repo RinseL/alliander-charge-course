@@ -2,7 +2,7 @@
 name = "alliander-charge-course"
 version = "0.1.0"
 description = ""
-authors = ["GroenteLepel <daniel.kok@alliander.com>"]
+authors = ["Rinse Liefferink <rinse.liefferink@alliander.com> Forked from: GroenteLepel <daniel.kok@alliander.com>"]
 readme = "README.md"
 package-mode = false
 
@@ -12,7 +12,7 @@ url = "https://alliander.jfrog.io/artifactory/api/pypi/pypi-all/simple"
 priority = "primary"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 ipykernel = "^6.29.5"
 numpy = "^2.1.2"
 matplotlib = "^3.9.2"
